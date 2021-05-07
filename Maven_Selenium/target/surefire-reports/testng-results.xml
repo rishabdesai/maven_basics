@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-07T23:29:26 IST" name="Suite" finished-at="2021-05-07T23:29:48 IST" duration-ms="22125">
+    <groups>
+    </groups>
+    <test started-at="2021-05-07T23:29:26 IST" name="Test" finished-at="2021-05-07T23:29:48 IST" duration-ms="22125">
+      <class name="pages.AppTest">
+        <test-method signature="testLogin1()[pri:0, instance:pages.AppTest@68267da0]" started-at="2021-05-07T23:29:48 IST" name="testLogin1" finished-at="2021-05-07T23:29:48 IST" duration-ms="132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin1 -->
+        <test-method signature="testLogin2()[pri:0, instance:pages.AppTest@68267da0]" started-at="2021-05-07T23:29:48 IST" name="testLogin2" finished-at="2021-05-07T23:29:48 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin2 -->
+      </class> <!-- pages.AppTest -->
+      <class name="pages.TC_Selenium_login">
+        <test-method signature="login_Test()[pri:0, instance:pages.TC_Selenium_login@683dbc2c]" started-at="2021-05-07T23:29:26 IST" name="login_Test" finished-at="2021-05-07T23:29:48 IST" duration-ms="21926" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_Test -->
+      </class> <!-- pages.TC_Selenium_login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
